@@ -52,9 +52,34 @@ This prototype was developed as part of an ongoing institutional research projec
 
 ---
 
-## Authors
+## Project Team 
 
-...
+### Project Director 
+**MSc. Luis Ramiro Dominguez Leiton** 
+Project Director 
+Centro de Física 
+Universidad Central del Ecuador 
+
+--- 
+
+### Virtualization Team – Centro de Física 
+
+- **Ing. Everzon Feiner Domínguez Castillo**
+- **Ing. Felipe Josué Lima Alvear**
+- **Ing. Eddy Santiago Sánchez Aguiar**
+- **Ing. Daniel Ignacio Ronquillo Lugo**
+- **MSc. Daniela Alejandra Tupiza Peralta**
+- **MSc. Wladimir Arcesio Vilca Lincango**
+
+--- 
+
+### Chemistry Academic Team – Centro de Química 
+
+- **MSc. Erika Tatiana Tingo Proaño**
+- **MSc. Maribel Araceli Andrango Morales**
+- **MSc. María Gabriela Salazar Martínez**
+- **Quím. Christian Jesús Rosero Narváez**
+- **Quím Nieves Marcela Tello Larco**
 
 ---
 
