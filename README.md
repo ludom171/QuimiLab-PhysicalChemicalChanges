@@ -56,8 +56,11 @@ This prototype was developed as part of an ongoing institutional research projec
 
 ### Project Director 
 **MSc. Luis Ramiro Dominguez Leiton** 
+
 Project Director 
+
 Centro de Física 
+
 Universidad Central del Ecuador 
 
 --- 
