@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="/Screenshots/Quimilab_logo.png" alt="QuimiLab logo" width="600">
+</p>
+
 # Technical Overview
 
 This document provides supplementary technical information about the virtual prototype developed for the laboratory practice **Physical and Chemical Changes** at the Universidad Central del Ecuador.
