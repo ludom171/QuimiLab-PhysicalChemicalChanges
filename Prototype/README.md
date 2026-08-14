@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="/Screenshots/Quimilab_logo.png" alt="QuimiLab logo" width="600">
+</p>
+
 # Prototype
 
 This folder contains the executable WebGL build of the virtual prototype developed for the laboratory practice **Physical and Chemical Changes**.
