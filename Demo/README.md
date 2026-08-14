@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="/Screenshots/Quimilab_logo.png" alt="QuimiLab logo" width="600">
+</p>
+
 # Demo
 
 This folder contains a short demonstration video of the virtual prototype developed for the laboratory practice **Physical and Chemical Changes**.
