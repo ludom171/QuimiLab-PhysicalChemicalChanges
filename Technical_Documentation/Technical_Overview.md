@@ -38,7 +38,7 @@ The process began with the characterization of the real laboratory practice and 
 
 The following figure summarizes the development workflow used in the project.
 
-![Development workflow](Development_Workflow.png)
+![Development workflow](Development_Workflow.jpg)
 
 **Figure 1.** Development and implementation workflow followed during the construction of the virtual prototype.
 
@@ -103,7 +103,7 @@ The prototype follows a modular architecture organized into five functional laye
 
 The relationship between these layers is summarized in the following architecture diagram.
 
-![Software architecture](Software_Architecture.png)
+![Software architecture](Software_Architecture.jpg)
 
 **Figure 2.** Layered software architecture of the virtual simulation environment.
 
