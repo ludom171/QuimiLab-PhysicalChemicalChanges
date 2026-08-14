@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="/Screenshots/Quimilab_logo.png" alt="QuimiLab logo" width="600">
+</p>
+
 # Evaluation
 
 This folder contains the supplementary materials used in the preliminary perception-based evaluation of the virtual prototype presented in the paper:
