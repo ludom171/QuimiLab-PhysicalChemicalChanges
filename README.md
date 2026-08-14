@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Screenshots/Quimilab_logo.png" alt="QuimiLab logo" width="600">
+</p>
+
 # QuimiLab-PhysicalChemicalChanges
 
 Virtual chemistry laboratory for interactive experimental practices developed at the Universidad Central del Ecuador.
@@ -11,6 +15,10 @@ QuimiLab is an interactive virtual chemistry laboratory designed to support expe
 The prototype reproduces a laboratory environment and experimental procedures using Unity and WebGL technologies, providing a browser-based virtual environment for chemistry education and research.
 
 The current prototype implements the institutional laboratory practice **Physical and Chemical Changes**, comprising nine experimental trials involving physical and chemical phenomena.
+
+<p align="center">
+  <img src="Screenshots/MainInterface.png" alt="QuimiLab main interface" width="850">
+</p>
 
 This repository contains the research prototype presented in the paper:
 
